@@ -1,3 +1,17 @@
+
+class SoftwareDeveloper {
+    name: string = "Anshi Xalxo";
+    location: string = "Gwalior, MP INDIA";
+    education: string = "B.Tech Computer Engineering";
+    university: string = "MITS Gwalior";
+    cgpa: number = 7;
+    
+    currentlyLearning: string[] = [
+        "Web dev",
+        "Data Analytics",
+        "Data Engineering"
+    ];
+
 - 👋 Hi, I’m @AnshiXalxo
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning web development
